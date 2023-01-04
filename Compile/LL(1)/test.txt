@@ -1,0 +1,15 @@
+double y;
+y = 3.1415e-10;
+double z ;
+float a;
+a = 12312;
+a = 3.1e+5;
+a = .123e-2;
+a = 4+(a-(1*a+y)/3)*y;
+z = (x1-3)*(4-y);
+if (y>=z)
+    if(z<=y)
+        z=y ;
+while ((z+y*15-7)>10)
+    if (z<y)
+        z=z-100;

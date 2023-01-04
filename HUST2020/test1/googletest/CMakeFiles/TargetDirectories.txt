@@ -1,0 +1,4 @@
+/mnt/c/code/HUST2020/test1/gtest/CMakeFiles/rebuild_cache.dir
+/mnt/c/code/HUST2020/test1/gtest/CMakeFiles/gtest.dir
+/mnt/c/code/HUST2020/test1/gtest/CMakeFiles/edit_cache.dir
+/mnt/c/code/HUST2020/test1/gtest/CMakeFiles/gtest_main.dir
